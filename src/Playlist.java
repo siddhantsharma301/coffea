@@ -11,7 +11,7 @@ public class Playlist
      */
     public Playlist()
     {
-        playlist = new ArrayList();
+        playlist = new ArrayList<Song>();
     }
 
     /**
@@ -24,7 +24,7 @@ public class Playlist
         BufferedReader bReader = new BufferedReader(new InputStreamReader(files));
         String ln = null;
         while ((ln =bReader.readLine()) != null) {
-            playlist.add(new Song(ln));
+            playlist.add(new Song(line));
         }
         bReader.close();
     }

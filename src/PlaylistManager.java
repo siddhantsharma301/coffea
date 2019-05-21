@@ -20,7 +20,7 @@ public class PlaylistManager
      * @param File text file with songs to be read
      * @param index index of playlist
      */
-    public void loadSongs (File file, int index)
+    public void loadSongs (File file, int index) throws IOException
     {
         playlists.get(index).loadSongs(file);
     }
@@ -34,12 +34,25 @@ public class PlaylistManager
     public File getSong (int currentPlaylist, int currentSong)
     { return playlists.get(currentPlaylist).getSong(currentSong).getSong(); }
 
+    /**
+     * Adds a playlist to the PlaylistManager
+     * @param play playlist to be added to collection of playlists
+     */
     public void add (Playlist play)
     { playlists.add(play); }
 
+    /**
+     * Returns playlist for a given index
+     * @param index
+     * @return playlist object at given index
+     */
     public Playlist getPlaylist (int index)
     { return playlists.get(index); }
 
+    /**
+     * Returns size of playlist
+     * @return size of playlist
+     */
     public int getNumberPlaylists()
     { return playlists.size(); }
 }
