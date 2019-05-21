@@ -4,6 +4,7 @@ import javafx.scene.control.Menu;
 import javafx.scene.control.MenuBar;
 import javafx.scene.control.MenuItem;
 import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 public class Main extends Application{
@@ -14,6 +15,7 @@ public class Main extends Application{
 
     @Override
     public void start(Stage stage) throws Exception {
+        Font.loadFont(getClass().getResourceAsStream("/fonts/Inter-ExtraBold.otf"), 14);
         stage.setTitle("JavaFX App");
 
         Menu menu = new Menu("Menu 1");
