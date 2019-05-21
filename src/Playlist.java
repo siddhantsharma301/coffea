@@ -24,7 +24,7 @@ public class Playlist
         BufferedReader bReader = new BufferedReader(new InputStreamReader(files));
         String ln = null;
         while ((ln =bReader.readLine()) != null) {
-            playlist.add(new Song(line));
+            playlist.add(new Song(ln));
         }
         bReader.close();
     }
