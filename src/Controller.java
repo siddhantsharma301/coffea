@@ -1,10 +1,12 @@
+import javafx.fxml.Initializable;
+import java.net.URL;
+import java.util.ResourceBundle;
 
-import java.awt.event.ActionEvent;
+public class Controller implements Initializable {
 
-
-
-public class Controller {
-    public void pressButton(ActionEvent event){
-        System.out.println("Hello World");
+    @Override
+    public void initialize(URL location, ResourceBundle resources) {
+        System.out.println("View is now loaded!");
     }
+
 }
