@@ -13,7 +13,6 @@
             <Button id="rewind" fx:id="rewind" layoutX="14.0" layoutY="186.0" maxHeight="48.0" maxWidth="48.0" minHeight="48.0" minWidth="48.0" mnemonicParsing="false" prefHeight="48.0" prefWidth="48.0" />
             <Button id="forward" fx:id="forward" layoutX="364.0" layoutY="186.0" maxHeight="48.0" maxWidth="48.0" minHeight="48.0" minWidth="48.0" mnemonicParsing="false" prefHeight="48.0" prefWidth="48.0" />
             <Label layoutX="14.0" layoutY="14.0" prefHeight="64.0" prefWidth="405.0" style="-fx-font-family: 'Inter Extra Bold'; -fx-font-size: 40pt" text="SongName">
-
             </Label>
             <Label layoutX="14.0" layoutY="78.0" prefHeight="17.0" prefWidth="274.0" style="-fx-font-family: 'Inter Semi Bold Italic'; -fx-font-size: 30pt" text="ArtistName">
             </Label>
