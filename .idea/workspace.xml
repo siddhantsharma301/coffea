@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5e2128-0bc2-4e3b-8029-0d8129c6bf54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coffea.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coffea/Coffea.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coffea/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coffea/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coffea/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coffea/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coffea/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coffea/Song.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coffea/coffee-cup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coffea.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coffee-cup.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/img/coffee-cup.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="9" lean-forward="true" selection-end-line="48" />
+            <state relative-caret-position="272">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
@@ -238,12 +225,12 @@
       <workItem from="1558568257471" duration="11428000" />
       <workItem from="1558634351943" duration="4472000" />
       <workItem from="1558903659527" duration="20226000" />
-      <workItem from="1559032680178" duration="2128000" />
+      <workItem from="1559032680178" duration="2532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48405000" />
+    <option name="totallyTimeSpent" value="48809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="true" selection-end-line="48" />
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#394#395#0" expanded="true" />

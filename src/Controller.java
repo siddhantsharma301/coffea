@@ -22,7 +22,7 @@ public class Controller {
 
     @FXML
     void pause(ActionEvent event) {
-        artistName.setText("Hello World");
+
     }
 
     @FXML
