@@ -12,21 +12,21 @@ This application is designed with a grandparent or another elderly person in min
 ***
 # User Manual
 1. Pause/Play
-  a. To play, press the right arrow. To pause, press the two vertical lines.
-  b. Make sure you select a song to play before pressing pause or play!
+  - To play, press the right arrow. To pause, press the two vertical lines.
+  - Make sure you select a song to play before pressing pause or play!
 
 2. Select a song by pressing “Songs”
-  a. To play a song, click on the song you would like to play 
-  b. Songs will play in the order of the playlist
+  - To play a song, click on the song you would like to play 
+  - Songs will play in the order of the playlist
             
 3. Select a playlist by pressing “Playlist”
-  a. To play a playlist, click the playlist button
-  b. Select the playlist you would like to play.
+  - To play a playlist, click the playlist button
+  - Select the playlist you would like to play.
             
 4. Load Music
-  a. Create a text file with the locations for song files. The song files must be of the .wav / .mp3 file type
-  b. To upload music, select the “Upload Music” button
-  c. Select the text file with the song locations
-  d. Name the playlist by typing the name into the text box
+  - Create a text file with the locations for song files. The song files must be of the .wav / .mp3 file type
+  - To upload music, select the “Upload Music” button
+  - Select the text file with the song locations
+  - Name the playlist by typing the name into the text box
           
 
