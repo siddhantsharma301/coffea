@@ -1,0 +1,45 @@
+ #root {
+     -fx-background-color: black;
+ }
+ .button {
+     -fx-background-color: transparent;
+ }
+ #prevButton {
+     -fx-background-image: url("../img/previous.png");
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 12px 12px;
+ }
+ #nextButton {
+     -fx-background-image: url("../img/skip.png");
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 12px 12px;
+
+ }
+ #playPause {
+     -fx-background-image: url("../img/play-arrow.png");
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 12px 12px;
+ }
+ #playPause:selected {
+     -fx-background-image: url("../img/pause.png");
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 12px 12px;
+ }
+ #volume {
+
+ }
+ #browse {
+     -fx-background-image: url("../img/add.png");
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 12px 12px;
+ }
+ #toolContainer {
+     //-fx-arc-height: 40;
+     //-fx-arc-width: 200;
+     -fx-background-size: 12px 12px;
+ }
